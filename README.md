@@ -5,14 +5,6 @@ A Power BI dashboard analyzing social media engagement across 10+ global brands
 tracking post volume, engagement, sentiment, and platform performance across 
 pre-launch, launch, and post-launch campaign phases.
 
-## Overview
-
-![Overview](images/overview.png)
-
-## Details View
-
-![Details](images/details.png)
-
 ## Tools Used
 - Power BI (data modeling, DAX measures, interactive visuals)
 - Excel / CSV for source data
